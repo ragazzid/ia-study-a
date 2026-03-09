@@ -1,0 +1,1 @@
+Mar 09 11:30:01 server-prod kernel: [12345.67] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/system.slice/apache2.service,task=apache2,pid=5678,uid=33
